@@ -41,7 +41,7 @@ plan-permissions:
   permissions:
   - view
 - users:
-  - jimweaver
+  - ivar
   permissions:
   - view
   - edit
